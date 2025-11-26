@@ -1,7 +1,7 @@
 #pragma once
 
-extern const char* const MONERO_VERSION_TAG;
-extern const char* const MONERO_VERSION;
-extern const char* const MONERO_RELEASE_NAME;
-extern const char* const MONERO_VERSION_FULL;
-extern const bool MONERO_VERSION_IS_RELEASE;
+#define DEF_MONERO_VERSION_TAG "DESVIAN"
+#define DEF_MONERO_VERSION "1.0.0"
+#define DEF_MONERO_RELEASE_NAME "Desvian Genesis"
+#define DEF_MONERO_VERSION_FULL "1.0.0-DESVIAN"
+#define DEF_MONERO_VERSION_IS_RELEASE 1
